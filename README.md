@@ -1,9 +1,19 @@
 
 <h1 align="center"><b>Hi , I'm José Montaño </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
+
 <p align="center">
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+Let's+Code+the+Future!..&hearts;++;Self-taught+Front-end+Developer,;Information+Systems+Engineering+Student,;Back-end+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
+
+<h3 align="center">About me:</h3>
+<p align="center">
+  I am a student of Information Systems Engineering at the University of Sonora. At 19 years old, I have focused on web development, where I have worked with technologies such as Python, TypeScript, HTML and CSS, in addition to managing databases with MySQL and Oracle Database. I am passionate about creating intuitive and functional web experiences, but I am also exploring application development to expand my skills and grow professionally. I am always looking for new challenges to continue learning and improve my abilities as a programmer.
+
+I am a proactive and curious person, always willing to adapt to new technologies and tools. I am interested in collaborating on projects that allow me to apply my knowledge and learn from professionals in the development field.
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 
