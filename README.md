@@ -6,14 +6,22 @@
 </p>
 
 <h3 align="center">Connect with me:</h3>
-<div align="center">
+<h3 align="center">Languages:</h3>
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
-  
-</div>
+<p align="center"> 
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt=""/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt=""/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/> 
+  </a>
+</p>
 </br>
 
 <h3 align="center">Languages:</h3>
@@ -35,13 +43,10 @@
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
   </a> 
 </p>
+</br>
 
-<h3 align="center">Tools and Frameworks:</h3>
+<h3 align="center">Frameworks:</h3>
 <p align="center">
-  
-  <a href="" target="_blank"> 
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/> 
-  </a>
   <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi"/> 
   </a>
@@ -61,9 +66,22 @@
   <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
   </a>
- 
 </p>
+</br>
 
+<h3 align="center">Tools:</h3>
+<p align="center">
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt=""/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)" alt=""/> 
+  </a>
+</p>
+</br>
 
 <h3 align="center">Hosting/SaaS:</h3>
 <p align="center">
@@ -71,11 +89,31 @@
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="gitgubpages"/> 
 </p>
 </br>
+<h3 align="center">Databases:</h3>
+<p align="center">
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb"/> 
+  </a>  
+</p>
+</br>
 <p align= "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyMoGas&theme=algolia" alt="joymogas"  />
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyMoGas&theme=react&layout=compact"/>
 </p>
+
 
 
 
