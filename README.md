@@ -6,7 +6,6 @@
 </p>
 
 <h3 align="center">Connect with me:</h3>
-<h3 align="center">Languages:</h3>
 
 <p align="center"> 
   <a href="" target="_blank"> 
@@ -22,7 +21,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/> 
   </a>
 </p>
-</br>
 
 <h3 align="center">Languages:</h3>
 
@@ -43,7 +41,6 @@
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
   </a> 
 </p>
-</br>
 
 <h3 align="center">Frameworks:</h3>
 <p align="center">
@@ -67,7 +64,6 @@
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
   </a>
 </p>
-</br>
 
 <h3 align="center">Tools:</h3>
 <p align="center">
@@ -81,14 +77,17 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)" alt=""/> 
   </a>
 </p>
-</br>
 
 <h3 align="center">Hosting/SaaS:</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="gitgubpages"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="gitgubpages"/> 
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="gitgubpages"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="gitgubpages"/> 
+  </a>
 </p>
-</br>
+
 <h3 align="center">Databases:</h3>
 <p align="center">
   <a href="" target="_blank"> 
@@ -108,6 +107,9 @@
   </a>  
 </p>
 </br>
+
+
+<h3 align="center">Current Stats:</h3>
 <p align= "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyMoGas&theme=algolia" alt="joymogas"  />
   &nbsp;&nbsp;&nbsp;&nbsp; 
