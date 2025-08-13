@@ -10,7 +10,7 @@
 <p>
   <img margin="1em" align="right" height="240rem" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdxZW1tM3FibXAyb2hzbzBjcDRyemVsMXp2ZjNpNXNwYmw3ejNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
   <p margin="1em" align="left"> 
-  I am a student of Information Systems Engineering at the University of Sonora. At 19 years old, I have focused on web development, where I have worked with technologies such as Python, TypeScript, HTML and CSS, in addition to managing databases with MySQL and Oracle Database. I am passionate about creating intuitive and functional web experiences, but I am also exploring application development to expand my skills and grow professionally. I am always looking for new challenges to continue learning and improve my abilities as a programmer.
+  I am a student of Information Systems Engineering at the University of Sonora. At 20 years old, I have focused on web development, where I have worked with technologies such as Python, TypeScript, HTML and CSS, in addition to managing databases with MySQL and Oracle Database. I am passionate about creating intuitive and functional web experiences, but I am also exploring application development to expand my skills and grow professionally. I am always looking for new challenges to continue learning and improve my abilities as a programmer.
   <br><br>
   I am a proactive and curious person, always willing to adapt to new technologies and tools. I am interested in collaborating on projects that allow me to apply my knowledge and learn from professionals in the development field.
     </p>
