@@ -20,12 +20,12 @@ I am a student of Information Systems Engineering at the University of Sonora. I
 ### Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/expo-000020.svg?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 ### Databases & Tools
@@ -44,15 +44,17 @@ I am a student of Information Systems Engineering at the University of Sonora. I
 
 * **Nuvault**: A secure, elegant mobile password manager for Android & iOS. Credentials are encrypted on your device before reaching the cloud. Built with **React Native, TypeScript, Expo, and Supabase**.
 * **Lab Inventory System**: A full-stack web system that digitizes and automates inventory management, practice reservations, and equipment loans for a university electrical lab. Built with **Django, Python, React, and PostgreSQL**.
-* **MoGas Weather App**: A modern, elegant weather application for real-time conditions and 5-day forecasts. Features smart search autocomplete, personalized weather advice, and a beautiful glassmorphism design. Built with **JavaScript, HTML5, CSS3, and Tailwind CSS**.
-* **Reedo**: A mobile social app for book lovers to discover new reads, build personal libraries, and share reviews. Currently in the **UI/UX design stage in Figma**.
+* **MoGas Weather App**: A modern, elegant weather application for real-time conditions and 5-day forecasts. Features smart search autocomplete and a beautiful glassmorphism design. Built with **JavaScript, HTML5, CSS3, and Tailwind CSS**.
+* **Reedo**: A mobile social app for book lovers to discover new reads and build personal libraries. Currently in the **UI/UX design stage in Figma**.
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoyMoGas&theme=tokyonight" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoyMoGas&theme=dark" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=JoyMoGas&theme=dark&hide_border=true" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoyMoGas&theme=dark" />
 </p>
 
 ---
