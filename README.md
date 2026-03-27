@@ -1,150 +1,73 @@
+# Hi, I'm José Montaño <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<h1 align="center"><b>Hi , I'm José Montaño </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+Full Stack Developer | Information Systems Engineering Student @ University of Sonora
+
+<img align="right" height="240rem" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdxZW1tM3FibXAyb2hzbzBjcDRyemVsMXp2ZjNpNXNwYmw3ejNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
+
+I am a student of Information Systems Engineering at the University of Sonora. I have focused on web and mobile development, where I have worked with technologies such as Python, TypeScript, HTML, and CSS. I am passionate about creating intuitive and functional experiences, always looking for new challenges to continue learning and improve my abilities as a programmer.
+
+---
+
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/expo-000020.svg?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+### Databases & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### Featured Projects
+
+* **Nuvault**: A secure, elegant mobile password manager for Android & iOS. Credentials are encrypted on your device before reaching the cloud. Built with **React Native, TypeScript, Expo, and Supabase**.
+* **Lab Inventory System**: A full-stack web system that digitizes and automates inventory management, practice reservations, and equipment loans for a university electrical lab. Built with **Django, Python, React, and PostgreSQL**.
+* **MoGas Weather App**: A modern, elegant weather application for real-time conditions and 5-day forecasts. Features smart search autocomplete, personalized weather advice, and a beautiful glassmorphism design. Built with **JavaScript, HTML5, CSS3, and Tailwind CSS**.
+* **Reedo**: A mobile social app for book lovers to discover new reads, build personal libraries, and share reviews. Currently in the **UI/UX design stage in Figma**.
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+Let's+Code+the+Future!..&hearts;++;Self-taught+Front-end+Developer,;Information+Systems+Engineering+Student,;Back-end+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoyMoGas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoyMoGas&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyMoGas&layout=compact&theme=algolia&hide=html" />
 </p>
 
+---
 
-<h3 align="center">About me:</h3>
-<p>
-  <img margin="1em" align="right" height="240rem" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdxZW1tM3FibXAyb2hzbzBjcDRyemVsMXp2ZjNpNXNwYmw3ejNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
-  <p margin="1em" align="left"> 
-  I am a student of Information Systems Engineering at the University of Sonora. At 21 years old, I have focused on web development, where I have worked with technologies such as Python, TypeScript, HTML and CSS, in addition to managing databases with MySQL and Oracle Database. I am passionate about creating intuitive and functional web experiences, but I am also exploring application development to expand my skills and grow professionally. I am always looking for new challenges to continue learning and improve my abilities as a programmer.
-  <br><br>
-  I am a proactive and curious person, always willing to adapt to new technologies and tools. I am interested in collaborating on projects that allow me to apply my knowledge and learn from professionals in the development field.
-    </p>
-</p>
+### Contact
 
+* **Location:** Hermosillo, Sonora, Mexico
+* **Portfolio:** [josemontano.netlify.app](https://josemontano.netlify.app/en/)
+* **LinkedIn:** [José Antonio Montaño Gastélum](https://www.linkedin.com/in/josé-montaño-gastélum-527426270)
+* **Email:** mogasjose.5@gmail.com
+* **Languages:** Spanish (Native) and English (Intermediate)
 
-
-  <!-- GIF a la derecha -->
-  
-
-
-
-<h3 align="center">Connect with me:</h3>
-
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/josé-montaño-gastélum-527426270/" target="_blank"> 
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/> 
-  </a>
-  <a href="https://www.instagram.com/mogas.dev/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/> 
-  </a>
-  <a href="https://x.com/DevMogas" target="_blank"> 
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="x"/> 
-  </a>
-</p>
-
-<h3 align="center">Languages:</h3>
-
-<p align="center"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3/> 
-  </a> 
-  <a href="https://docs.python.org/3/" target="_blank"> 
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/docs/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
-  </a> 
-</p>
-
-<h3 align="center">Frameworks:</h3>
+---
 <p align="center">
-  <a href="https://fastapi.tiangolo.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi"/> 
-  </a>
-  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> 
-    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> 
-  </a>
-  <a href="https://jinja.palletsprojects.com/en/stable/" target="_blank"> 
-    <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black" alt="jinja"/> 
-  </a>
-  
-  <a href="https://docs.npmjs.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/> 
-  </a>
-  <a href="https://nodejs.org/docs/latest/api/" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> 
-  </a>
-  <a href="https://react.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
-  </a>
+  <i>"Proactive, curious, and always ready to adapt to new technologies to build the future."</i>
 </p>
-
-<h3 align="center">Tools:</h3>
-<p align="center">
-  <a href="https://code.visualstudio.com/docs" target="_blank"> 
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/> 
-  </a>
-  <a href="https://git-scm.com/doc" target="_blank"> 
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
-  </a>
-  <a href="https://docs.github.com/es" target="_blank"> 
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/> 
-  </a>
-</p>
-
-<h3 align="center">Hosting/SaaS:</h3>
-<p align="center">
-  <a href="https://docs.github.com/es/pages" target="_blank">
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="gitgubpages"/>
-  </a>
-  <a href="https://vercel.com/docs" target="_blank">
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/> 
-  </a>
-</p>
-
-<h3 align="center">Databases:</h3>
-<p align="center">
-  <a href="https://www.postgresql.org/docs/" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> 
-  </a>
-  <a href="https://www.sqlite.org/docs.html" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> 
-  </a>
-  <a href="https://www.mongodb.com/docs/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
-  </a>
-  <a href="https://dev.mysql.com/doc/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
-  </a>
-  <a href="https://mariadb.org/documentation/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb"/> 
-  </a>  
-</p>
-</br>
-
-
-<h3 align="center">Current Stats:</h3>
-<p align= "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyMoGas&theme=algolia" alt="joymogas"  />
-  &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyMoGas&theme=react&layout=compact"/>
-</p>
-
-
-
-
-<!--
-**JoyMoGas/JoyMoGas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
